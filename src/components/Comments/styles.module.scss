@@ -1,0 +1,35 @@
+.comment {
+  display: flex;
+  border: 1px solid rgba(206, 215, 247, 0.511);
+  padding: 10px;
+  flex-direction: row;
+  border-collapse: collapse;
+  align-items: center;
+}
+
+.arrowBtn {
+  margin-right: 10px;
+  border-width: 1px;
+}
+
+.commentCard {
+  width: 100%;
+}
+
+.author {
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.date {
+  margin-left: 20px;
+}
+
+.commentWrapper {
+  padding-left: 10px;
+}
