@@ -5,7 +5,7 @@
 ### Make sure you are using node version 14.16.0 
 
 install npm modules
-### `npm init`
+### `npm i`
 
 That's it now you can run:
 
